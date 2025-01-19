@@ -1,0 +1,10 @@
+{
+    "connection": {
+        "account": "LQ18747.us-east-2.aws",
+        "authenticator": "externalbrowser",
+        "user": "mlake@continuus.ai"
+    },
+    "database": "CORTEX_DEMOS",
+    "schema": "SEC_FILINGS",
+    "stage": "10_K_STAGE"
+}
